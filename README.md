@@ -16,4 +16,4 @@ coverage of test data, ranking loss of test data and average precision of test d
 - *args.lo=rank_exp_consis*: $\mathcal{\bar L}_\text{CR}$ 
 ## Specify the dataset argument:
 - scene, scene_bia: scene dataset with uniform complementary labels and biased complementary labels
-- yeast, yeast_bia: tmc2007 dataset with uniform complementary labels and biased complementary labels
+- yeast, yeast_bia: yeast dataset with uniform complementary labels and biased complementary labels
